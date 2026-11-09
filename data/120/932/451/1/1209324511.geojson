@@ -38,7 +38,7 @@
         "gn:id":2296940
     },
     "wof:country":"GH",
-    "wof:geomhash":"4e887e317bd7163a80e4baba9036baf7",
+    "wof:geomhash":"39f3172cdee5ac2f514ec760b309af87",
     "wof:hierarchy":[
         {
             "country_id":85632189,
@@ -61,5 +61,5 @@
     -2.1,
     5.0
 ],
-  "geometry": {"coordinates":[-2.1,5.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.1,5],"type":"Point"}
 }

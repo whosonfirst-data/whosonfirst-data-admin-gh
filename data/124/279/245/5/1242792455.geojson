@@ -41,7 +41,7 @@
         "gn:id":2298167
     },
     "wof:country":"GH",
-    "wof:geomhash":"ec720346e8d22bd8298e024f64689f65",
+    "wof:geomhash":"15ffc00fa7f7373e592294c6a11dc4db",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     -1.36667,
     7.0
 ],
-  "geometry": {"coordinates":[-1.36667,7.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.36667,7],"type":"Point"}
 }
