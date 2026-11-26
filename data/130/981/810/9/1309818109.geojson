@@ -41,7 +41,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671347,
+        9895008349,
         1108760003
     ],
     "wof:breaches":[],
@@ -56,11 +56,11 @@
             "country_id":85632189,
             "county_id":1108760003,
             "locality_id":1309818109,
-            "region_id":85671347
+            "region_id":9895008349
         }
     ],
     "wof:id":1309818109,
-    "wof:lastmodified":1566638425,
+    "wof:lastmodified":1795728846,
     "wof:name":"Patakoro",
     "wof:parent_id":1108760003,
     "wof:placetype":"locality",

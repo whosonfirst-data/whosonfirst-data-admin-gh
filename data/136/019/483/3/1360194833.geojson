@@ -44,7 +44,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671347,
+        9895008349,
         1108760003
     ],
     "wof:breaches":[],
@@ -59,11 +59,11 @@
             "country_id":85632189,
             "county_id":1108760003,
             "locality_id":1360194833,
-            "region_id":85671347
+            "region_id":9895008349
         }
     ],
     "wof:id":1360194833,
-    "wof:lastmodified":1566638395,
+    "wof:lastmodified":1795728846,
     "wof:name":"Eluokrom",
     "wof:parent_id":1108760003,
     "wof:placetype":"locality",

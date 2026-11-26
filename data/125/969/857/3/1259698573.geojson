@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671337,
+        9895008344,
         1108759817
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632189,
             "county_id":1108759817,
             "locality_id":1259698573,
-            "region_id":85671337
+            "region_id":9895008344
         }
     ],
     "wof:id":1259698573,
-    "wof:lastmodified":1566638656,
+    "wof:lastmodified":1795728846,
     "wof:name":"Chirembo",
     "wof:parent_id":1108759817,
     "wof:placetype":"locality",

@@ -41,7 +41,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671337,
+        9895008343,
         1108759813
     ],
     "wof:breaches":[],
@@ -57,11 +57,11 @@
             "country_id":85632189,
             "county_id":1108759813,
             "locality_id":1326848407,
-            "region_id":85671337
+            "region_id":9895008343
         }
     ],
     "wof:id":1326848407,
-    "wof:lastmodified":1566637599,
+    "wof:lastmodified":1795728846,
     "wof:name":"Hwidiem",
     "wof:parent_id":1108759813,
     "wof:placetype":"locality",

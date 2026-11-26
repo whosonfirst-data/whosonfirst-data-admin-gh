@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671357,
+        9895008347,
         1108759979
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632189,
             "county_id":1108759979,
             "locality_id":1293701401,
-            "region_id":85671357
+            "region_id":9895008347
         }
     ],
     "wof:id":1293701401,
-    "wof:lastmodified":1566637835,
+    "wof:lastmodified":1795728846,
     "wof:name":"Poasi",
     "wof:parent_id":1108759979,
     "wof:placetype":"locality",

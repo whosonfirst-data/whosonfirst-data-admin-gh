@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671337,
+        9895008345,
         1108759831
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632189,
             "county_id":1108759831,
             "locality_id":1293307495,
-            "region_id":85671337
+            "region_id":9895008345
         }
     ],
     "wof:id":1293307495,
-    "wof:lastmodified":1566637792,
+    "wof:lastmodified":1795728846,
     "wof:name":"Atroni",
     "wof:parent_id":1108759831,
     "wof:placetype":"locality",

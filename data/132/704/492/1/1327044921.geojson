@@ -42,7 +42,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671357,
+        85671319,
         1108759989
     ],
     "wof:breaches":[],
@@ -57,11 +57,11 @@
             "country_id":85632189,
             "county_id":1108759989,
             "locality_id":1327044921,
-            "region_id":85671357
+            "region_id":85671319
         }
     ],
     "wof:id":1327044921,
-    "wof:lastmodified":1566637588,
+    "wof:lastmodified":1795728846,
     "wof:name":"Bladjai",
     "wof:parent_id":1108759989,
     "wof:placetype":"locality",

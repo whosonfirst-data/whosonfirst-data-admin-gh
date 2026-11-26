@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671319,
+        9895008348,
         1108759921
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632189,
             "county_id":1108759921,
             "locality_id":1260201553,
-            "region_id":85671319
+            "region_id":9895008348
         }
     ],
     "wof:id":1260201553,
-    "wof:lastmodified":1566638222,
+    "wof:lastmodified":1795728846,
     "wof:name":"Yiripani",
     "wof:parent_id":1108759921,
     "wof:placetype":"locality",

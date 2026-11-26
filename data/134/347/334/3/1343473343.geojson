@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671319,
+        9895008346,
         1108759917
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632189,
             "county_id":1108759917,
             "locality_id":1343473343,
-            "region_id":85671319
+            "region_id":9895008346
         }
     ],
     "wof:id":1343473343,
-    "wof:lastmodified":1566637699,
+    "wof:lastmodified":1795728846,
     "wof:name":"Jimbale",
     "wof:parent_id":1108759917,
     "wof:placetype":"locality",

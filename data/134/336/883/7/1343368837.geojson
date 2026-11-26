@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671347,
+        9895008349,
         1108759997
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632189,
             "county_id":1108759997,
             "locality_id":1343368837,
-            "region_id":85671347
+            "region_id":9895008349
         }
     ],
     "wof:id":1343368837,
-    "wof:lastmodified":1566637645,
+    "wof:lastmodified":1795728846,
     "wof:name":"Ajianso",
     "wof:parent_id":1108759997,
     "wof:placetype":"locality",

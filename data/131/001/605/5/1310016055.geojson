@@ -98,7 +98,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671357,
+        85671319,
         1108759987
     ],
     "wof:breaches":[],
@@ -113,11 +113,11 @@
             "country_id":85632189,
             "county_id":1108759987,
             "locality_id":1310016055,
-            "region_id":85671357
+            "region_id":85671319
         }
     ],
     "wof:id":1310016055,
-    "wof:lastmodified":1566638302,
+    "wof:lastmodified":1795728846,
     "wof:name":"Bora",
     "wof:parent_id":1108759987,
     "wof:placetype":"locality",

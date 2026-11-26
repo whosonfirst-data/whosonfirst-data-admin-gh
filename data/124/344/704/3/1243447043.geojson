@@ -120,7 +120,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671319,
+        9895008348,
         1108759921
     ],
     "wof:breaches":[],
@@ -135,11 +135,11 @@
             "country_id":85632189,
             "county_id":1108759921,
             "locality_id":1243447043,
-            "region_id":85671319
+            "region_id":9895008348
         }
     ],
     "wof:id":1243447043,
-    "wof:lastmodified":1566638591,
+    "wof:lastmodified":1795728846,
     "wof:name":"Sala",
     "wof:parent_id":1108759921,
     "wof:placetype":"locality",

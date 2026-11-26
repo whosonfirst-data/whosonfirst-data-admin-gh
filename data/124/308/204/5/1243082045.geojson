@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671347,
+        9895008349,
         1108759999
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632189,
             "county_id":1108759999,
             "locality_id":1243082045,
-            "region_id":85671347
+            "region_id":9895008349
         }
     ],
     "wof:id":1243082045,
-    "wof:lastmodified":1566638473,
+    "wof:lastmodified":1795728846,
     "wof:name":"Adukrom",
     "wof:parent_id":1108759999,
     "wof:placetype":"locality",

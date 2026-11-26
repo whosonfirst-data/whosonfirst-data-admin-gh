@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671357,
+        9895008347,
         1108759975
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632189,
             "county_id":1108759975,
             "locality_id":1276888341,
-            "region_id":85671357
+            "region_id":9895008347
         }
     ],
     "wof:id":1276888341,
-    "wof:lastmodified":1566637933,
+    "wof:lastmodified":1795728846,
     "wof:name":"Atonko",
     "wof:parent_id":1108759975,
     "wof:placetype":"locality",

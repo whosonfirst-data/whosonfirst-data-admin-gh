@@ -70,7 +70,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671319,
+        9895008348,
         1108759919
     ],
     "wof:breaches":[],
@@ -90,11 +90,11 @@
             "country_id":85632189,
             "county_id":1108759919,
             "locality_id":890444275,
-            "region_id":85671319
+            "region_id":9895008348
         }
     ],
     "wof:id":890444275,
-    "wof:lastmodified":1690921705,
+    "wof:lastmodified":1795728846,
     "wof:name":"Salaga",
     "wof:parent_id":1108759919,
     "wof:placetype":"locality",

@@ -64,7 +64,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671337,
+        9895008344,
         1108759829
     ],
     "wof:breaches":[],
@@ -79,11 +79,11 @@
             "country_id":85632189,
             "county_id":1108759829,
             "locality_id":1259802031,
-            "region_id":85671337
+            "region_id":9895008344
         }
     ],
     "wof:id":1259802031,
-    "wof:lastmodified":1566638662,
+    "wof:lastmodified":1795728846,
     "wof:name":"Basa",
     "wof:parent_id":1108759829,
     "wof:placetype":"locality",

@@ -105,7 +105,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671337,
+        9895008344,
         1108759825
     ],
     "wof:breaches":[],
@@ -120,11 +120,11 @@
             "country_id":85632189,
             "county_id":1108759825,
             "locality_id":1242587531,
-            "region_id":85671337
+            "region_id":9895008344
         }
     ],
     "wof:id":1242587531,
-    "wof:lastmodified":1566638503,
+    "wof:lastmodified":1795728846,
     "wof:name":"Sora",
     "wof:parent_id":1108759825,
     "wof:placetype":"locality",

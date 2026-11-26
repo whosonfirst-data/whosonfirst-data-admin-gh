@@ -66,7 +66,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671319,
+        9895008346,
         1108759929
     ],
     "wof:breaches":[],
@@ -81,11 +81,11 @@
             "country_id":85632189,
             "county_id":1108759929,
             "locality_id":1243082209,
-            "region_id":85671319
+            "region_id":9895008346
         }
     ],
     "wof:id":1243082209,
-    "wof:lastmodified":1566638472,
+    "wof:lastmodified":1795728846,
     "wof:name":"Tanja",
     "wof:parent_id":1108759929,
     "wof:placetype":"locality",

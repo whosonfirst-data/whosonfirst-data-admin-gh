@@ -55,7 +55,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671319,
+        9895008346,
         1108759937
     ],
     "wof:breaches":[],
@@ -70,11 +70,11 @@
             "country_id":85632189,
             "county_id":1108759937,
             "locality_id":1276461995,
-            "region_id":85671319
+            "region_id":9895008346
         }
     ],
     "wof:id":1276461995,
-    "wof:lastmodified":1566638017,
+    "wof:lastmodified":1795728846,
     "wof:name":"Bimbini",
     "wof:parent_id":1108759937,
     "wof:placetype":"locality",

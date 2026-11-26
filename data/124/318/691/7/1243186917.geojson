@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671337,
+        9895008343,
         1108759813
     ],
     "wof:breaches":[],
@@ -53,11 +53,11 @@
             "country_id":85632189,
             "county_id":1108759813,
             "locality_id":1243186917,
-            "region_id":85671337
+            "region_id":9895008343
         }
     ],
     "wof:id":1243186917,
-    "wof:lastmodified":1566638571,
+    "wof:lastmodified":1795728846,
     "wof:name":"Wamahinso",
     "wof:parent_id":1108759813,
     "wof:placetype":"locality",

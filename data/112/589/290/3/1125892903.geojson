@@ -72,7 +72,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671337,
+        9895008343,
         1108759835
     ],
     "wof:breaches":[],
@@ -90,11 +90,11 @@
             "country_id":85632189,
             "county_id":1108759835,
             "locality_id":1125892903,
-            "region_id":85671337
+            "region_id":9895008343
         }
     ],
     "wof:id":1125892903,
-    "wof:lastmodified":1690921712,
+    "wof:lastmodified":1795728846,
     "wof:name":"Duayaw Nkwanta",
     "wof:parent_id":1108759835,
     "wof:placetype":"locality",

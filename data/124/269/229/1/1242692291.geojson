@@ -109,7 +109,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671319,
+        9895008348,
         1108759921
     ],
     "wof:breaches":[],
@@ -124,11 +124,11 @@
             "country_id":85632189,
             "county_id":1108759921,
             "locality_id":1242692291,
-            "region_id":85671319
+            "region_id":9895008348
         }
     ],
     "wof:id":1242692291,
-    "wof:lastmodified":1636502234,
+    "wof:lastmodified":1795728846,
     "wof:name":"Katanga",
     "wof:parent_id":1108759921,
     "wof:placetype":"locality",

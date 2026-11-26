@@ -36,7 +36,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671337,
+        9895008344,
         1108759827
     ],
     "wof:breaches":[],
@@ -51,11 +51,11 @@
             "country_id":85632189,
             "county_id":1108759827,
             "locality_id":1293901669,
-            "region_id":85671337
+            "region_id":9895008344
         }
     ],
     "wof:id":1293901669,
-    "wof:lastmodified":1566637811,
+    "wof:lastmodified":1795728846,
     "wof:name":"Sikaa",
     "wof:parent_id":1108759827,
     "wof:placetype":"locality",

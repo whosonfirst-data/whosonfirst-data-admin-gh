@@ -159,7 +159,7 @@
         85678549,
         1108561161,
         85632189,
-        85671319,
+        9895008346,
         1108759929
     ],
     "wof:breaches":[],
@@ -181,11 +181,11 @@
             "country_id":85632189,
             "county_id":1108759929,
             "locality_id":1327348397,
-            "region_id":85671319
+            "region_id":9895008346
         }
     ],
     "wof:id":1327348397,
-    "wof:lastmodified":1566637573,
+    "wof:lastmodified":1795728846,
     "wof:name":"Saka",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

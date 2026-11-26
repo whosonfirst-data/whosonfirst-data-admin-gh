@@ -38,7 +38,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671347,
+        9895008349,
         1108759999
     ],
     "wof:breaches":[],
@@ -53,11 +53,11 @@
             "country_id":85632189,
             "county_id":1108759999,
             "locality_id":1327040053,
-            "region_id":85671347
+            "region_id":9895008349
         }
     ],
     "wof:id":1327040053,
-    "wof:lastmodified":1566637588,
+    "wof:lastmodified":1795728846,
     "wof:name":"Bankrumisa",
     "wof:parent_id":1108759999,
     "wof:placetype":"locality",

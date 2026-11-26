@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671319,
+        9895008346,
         1108759937
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632189,
             "county_id":1108759937,
             "locality_id":1360004181,
-            "region_id":85671319
+            "region_id":9895008346
         }
     ],
     "wof:id":1360004181,
-    "wof:lastmodified":1566638366,
+    "wof:lastmodified":1795728846,
     "wof:name":"Sandafongo",
     "wof:parent_id":1108759937,
     "wof:placetype":"locality",

@@ -95,7 +95,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671337
+        9895008344
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -110,13 +110,13 @@
             "continent_id":102191573,
             "country_id":85632189,
             "county_id":1108759837,
-            "region_id":85671337
+            "region_id":9895008344
         }
     ],
     "wof:id":1108759837,
-    "wof:lastmodified":1695886306,
+    "wof:lastmodified":1795728846,
     "wof:name":"Techiman",
-    "wof:parent_id":85671337,
+    "wof:parent_id":9895008344,
     "wof:placetype":"county",
     "wof:placetype_local":"district",
     "wof:population":173742,

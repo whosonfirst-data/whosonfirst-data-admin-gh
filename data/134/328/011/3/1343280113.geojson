@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671337,
+        9895008344,
         1108759837
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632189,
             "county_id":1108759837,
             "locality_id":1343280113,
-            "region_id":85671337
+            "region_id":9895008344
         }
     ],
     "wof:id":1343280113,
-    "wof:lastmodified":1566637768,
+    "wof:lastmodified":1795728846,
     "wof:name":"Ofuman",
     "wof:parent_id":1108759837,
     "wof:placetype":"locality",

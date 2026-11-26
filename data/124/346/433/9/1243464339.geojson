@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191573,
         85632189,
-        85671319,
+        9895008348,
         1108759913
     ],
     "wof:breaches":[],
@@ -54,11 +54,11 @@
             "country_id":85632189,
             "county_id":1108759913,
             "locality_id":1243464339,
-            "region_id":85671319
+            "region_id":9895008348
         }
     ],
     "wof:id":1243464339,
-    "wof:lastmodified":1566638522,
+    "wof:lastmodified":1795728846,
     "wof:name":"Nakpala",
     "wof:parent_id":1108759913,
     "wof:placetype":"locality",
