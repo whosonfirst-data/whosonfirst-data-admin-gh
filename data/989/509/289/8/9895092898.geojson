@@ -1,0 +1,75 @@
+{
+  "id": 9895092898,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.33912,5.55221,-0.33912,5.55221",
+    "geom:latitude":5.55221,
+    "geom:longitude":-0.33912,
+    "gn:population":77371,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640505: name \"Mandela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640505"
+        },
+        {
+            "citation":"GeoNames populated place 12640505: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640505"
+        },
+        {
+            "citation":"GeoNames populated place 12640505: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640505"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759909 (Ga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671353,
+        102191573,
+        1108759909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640505
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"2dcf4b090acc5741584bceac79ecd4ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":1108759909,
+            "locality_id":9895092898,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":9895092898,
+    "wof:lastmodified":1795747393,
+    "wof:name":"Mandela",
+    "wof:parent_id":1108759909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.33912,
+    5.55221,
+    -0.33912,
+    5.55221
+],
+  "geometry": {"coordinates":[-0.33912,5.55221],"type":"Point"}
+}
