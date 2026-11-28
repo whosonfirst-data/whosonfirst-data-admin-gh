@@ -1,0 +1,76 @@
+{
+  "id": 9895095257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.2,6.2,-2.2,6.2",
+    "geom:latitude":6.2,
+    "geom:longitude":-2.2,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 13609027 (Amansie South): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13609027"
+        },
+        {
+            "citation":"GeoNames division 13609027 (Amansie South): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13609027"
+        },
+        {
+            "citation":"GeoNames division 13609027 (Amansie South): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13609027"
+        },
+        {
+            "citation":"GeoNames division 13609027 (Amansie South): a level 2 division under GeoNames division 2304116 (Ashanti Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/13609027"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Amansie South"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671331,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13609027
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b764089c64e9a05416ffa74c58ab8f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095257,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":9895095257,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Amansie South",
+    "wof:parent_id":85671331,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.2,
+    6.2,
+    -2.2,
+    6.2
+],
+  "geometry": {"coordinates":[-2.2,6.2],"type":"Point"}
+}

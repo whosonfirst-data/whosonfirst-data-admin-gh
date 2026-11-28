@@ -1,0 +1,77 @@
+{
+  "id": 9895095234,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.2,5.73333,-0.2,5.73333",
+    "geom:latitude":5.73333,
+    "geom:longitude":-0.2,
+    "gn:population":179107,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7648980 (Ga East): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7648980"
+        },
+        {
+            "citation":"GeoNames division 7648980 (Ga East): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7648980"
+        },
+        {
+            "citation":"GeoNames division 7648980 (Ga East): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7648980"
+        },
+        {
+            "citation":"GeoNames division 7648980 (Ga East): a level 2 division under GeoNames division 2300569 (Greater Accra Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7648980"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ga East"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671353,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648980
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9f7ff78dc70c8a29f850040f302b5daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095234,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":9895095234,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Ga East",
+    "wof:parent_id":85671353,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.2,
+    5.73333,
+    -0.2,
+    5.73333
+],
+  "geometry": {"coordinates":[-0.2,5.73333],"type":"Point"}
+}

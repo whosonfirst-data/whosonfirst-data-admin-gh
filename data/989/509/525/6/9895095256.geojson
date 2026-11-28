@@ -1,0 +1,76 @@
+{
+  "id": 9895095256,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.65207,10.83607,-0.65207,10.83607",
+    "geom:latitude":10.83607,
+    "geom:longitude":-0.65207,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12105115 (Nabdam): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12105115"
+        },
+        {
+            "citation":"GeoNames division 12105115 (Nabdam): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12105115"
+        },
+        {
+            "citation":"GeoNames division 12105115 (Nabdam): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12105115"
+        },
+        {
+            "citation":"GeoNames division 12105115 (Nabdam): a level 2 division under GeoNames division 2294291 (Upper East Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12105115"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Nabdam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671323,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12105115
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9230fbf1a060dcbc48a7128127565434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095256,
+            "region_id":85671323
+        }
+    ],
+    "wof:id":9895095256,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Nabdam",
+    "wof:parent_id":85671323,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.65207,
+    10.83607,
+    -0.65207,
+    10.83607
+],
+  "geometry": {"coordinates":[-0.65207,10.83607],"type":"Point"}
+}

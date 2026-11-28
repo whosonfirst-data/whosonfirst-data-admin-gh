@@ -1,0 +1,77 @@
+{
+  "id": 9895095227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.51667,6.28333,-1.51667,6.28333",
+    "geom:latitude":6.28333,
+    "geom:longitude":-1.51667,
+    "gn:population":127952,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7648924 (Adansi North): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7648924"
+        },
+        {
+            "citation":"GeoNames division 7648924 (Adansi North): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7648924"
+        },
+        {
+            "citation":"GeoNames division 7648924 (Adansi North): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7648924"
+        },
+        {
+            "citation":"GeoNames division 7648924 (Adansi North): a level 2 division under GeoNames division 2304116 (Ashanti Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7648924"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Adansi North"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671331,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648924
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"91b721f89f7d2201a4d8f2bd781eb3c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095227,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":9895095227,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Adansi North",
+    "wof:parent_id":85671331,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.51667,
+    6.28333,
+    -1.51667,
+    6.28333
+],
+  "geometry": {"coordinates":[-1.51667,6.28333],"type":"Point"}
+}

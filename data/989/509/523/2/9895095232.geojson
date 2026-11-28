@@ -1,0 +1,77 @@
+{
+  "id": 9895095232,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.33333,6.41667,-1.33333,6.41667",
+    "geom:latitude":6.41667,
+    "geom:longitude":-1.33333,
+    "gn:population":75607,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7648967 (Bosome Freho): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7648967"
+        },
+        {
+            "citation":"GeoNames division 7648967 (Bosome Freho): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7648967"
+        },
+        {
+            "citation":"GeoNames division 7648967 (Bosome Freho): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7648967"
+        },
+        {
+            "citation":"GeoNames division 7648967 (Bosome Freho): a level 2 division under GeoNames division 2304116 (Ashanti Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7648967"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bosome Freho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671331,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648967
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"bacc58d0c3f3c37fda184c4084019caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095232,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":9895095232,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Bosome Freho",
+    "wof:parent_id":85671331,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.33333,
+    6.41667,
+    -1.33333,
+    6.41667
+],
+  "geometry": {"coordinates":[-1.33333,6.41667],"type":"Point"}
+}

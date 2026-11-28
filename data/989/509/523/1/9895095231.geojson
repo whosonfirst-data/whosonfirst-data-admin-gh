@@ -1,0 +1,77 @@
+{
+  "id": 9895095231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.31667,7.11667,0.31667,7.11667",
+    "geom:latitude":7.11667,
+    "geom:longitude":0.31667,
+    "gn:population":71827,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7648960 (Biakoye): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7648960"
+        },
+        {
+            "citation":"GeoNames division 7648960 (Biakoye): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7648960"
+        },
+        {
+            "citation":"GeoNames division 7648960 (Biakoye): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7648960"
+        },
+        {
+            "citation":"GeoNames division 7648960 (Biakoye): a level 2 division under GeoNames division 12105070 (Oti).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7648960"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Biakoye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        102191573,
+        9895008347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648960
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"47aa6c6edee61bbee3f417caf60f2fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095231,
+            "region_id":9895008347
+        }
+    ],
+    "wof:id":9895095231,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Biakoye",
+    "wof:parent_id":9895008347,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.31667,
+    7.11667,
+    0.31667,
+    7.11667
+],
+  "geometry": {"coordinates":[0.31667,7.11667],"type":"Point"}
+}

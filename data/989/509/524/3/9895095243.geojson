@@ -1,0 +1,79 @@
+{
+  "id": 9895095243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.28475,5.62518,-0.28475,5.62518",
+    "geom:latitude":5.62518,
+    "geom:longitude":-0.28475,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 10375753 (Ga Central Municipal Assembly): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/10375753"
+        },
+        {
+            "citation":"GeoNames division 10375753 (Ga Central Municipal Assembly): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/10375753"
+        },
+        {
+            "citation":"GeoNames division 10375753 (Ga Central Municipal Assembly): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/10375753"
+        },
+        {
+            "citation":"GeoNames division 10375753 (Ga Central Municipal Assembly): a level 2 division under GeoNames division 2300569 (Greater Accra Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/10375753"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ga Central"
+    ],
+    "name:eng_x_variant":[
+        "Ga Central Municipal Assembly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671353,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10375753
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"36956f5e1df83dcf24c7d2f64a16d7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095243,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":9895095243,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Ga Central",
+    "wof:parent_id":85671353,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.28475,
+    5.62518,
+    -0.28475,
+    5.62518
+],
+  "geometry": {"coordinates":[-0.28475,5.62518],"type":"Point"}
+}

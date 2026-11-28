@@ -1,0 +1,79 @@
+{
+  "id": 9895095263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.54,6.37,-0.54,6.37",
+    "geom:latitude":6.37,
+    "geom:longitude":-0.54,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 13609045 (Atiwa East District): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13609045"
+        },
+        {
+            "citation":"GeoNames division 13609045 (Atiwa East District): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13609045"
+        },
+        {
+            "citation":"GeoNames division 13609045 (Atiwa East District): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13609045"
+        },
+        {
+            "citation":"GeoNames division 13609045 (Atiwa East District): a level 2 division under GeoNames division 2301360 (Eastern Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/13609045"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Atiwa East"
+    ],
+    "name:eng_x_variant":[
+        "Atiwa East District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671343,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13609045
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"354e6f5155f936513665a0ac35333583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095263,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":9895095263,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Atiwa East",
+    "wof:parent_id":85671343,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.54,
+    6.37,
+    -0.54,
+    6.37
+],
+  "geometry": {"coordinates":[-0.54,6.37],"type":"Point"}
+}

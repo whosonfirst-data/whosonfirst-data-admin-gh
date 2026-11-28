@@ -1,0 +1,79 @@
+{
+  "id": 9895095272,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.251,5.606,-0.251,5.606",
+    "geom:latitude":5.606,
+    "geom:longitude":-0.251,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 13609060 (Okaikwei North Municipal): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13609060"
+        },
+        {
+            "citation":"GeoNames division 13609060 (Okaikwei North Municipal): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13609060"
+        },
+        {
+            "citation":"GeoNames division 13609060 (Okaikwei North Municipal): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13609060"
+        },
+        {
+            "citation":"GeoNames division 13609060 (Okaikwei North Municipal): a level 2 division under GeoNames division 2300569 (Greater Accra Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/13609060"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Okaikwei North"
+    ],
+    "name:eng_x_variant":[
+        "Okaikwei North Municipal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671353,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13609060
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"4c2b079cdf93684075a193f2b5a4f2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095272,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":9895095272,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Okaikwei North",
+    "wof:parent_id":85671353,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.251,
+    5.606,
+    -0.251,
+    5.606
+],
+  "geometry": {"coordinates":[-0.251,5.606],"type":"Point"}
+}

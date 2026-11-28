@@ -1,0 +1,77 @@
+{
+  "id": 9895095226,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.32222,4.96389,-2.32222,4.96389",
+    "geom:latitude":4.96389,
+    "geom:longitude":-2.32222,
+    "gn:population":114441,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7647527 (Ellembelle): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7647527"
+        },
+        {
+            "citation":"GeoNames division 7647527 (Ellembelle): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7647527"
+        },
+        {
+            "citation":"GeoNames division 7647527 (Ellembelle): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7647527"
+        },
+        {
+            "citation":"GeoNames division 7647527 (Ellembelle): a level 2 division under GeoNames division 2294076 (Western Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7647527"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ellembelle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671347,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647527
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"75c7e2e98dcc767f57a2c1f5a837c3b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095226,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":9895095226,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Ellembelle",
+    "wof:parent_id":85671347,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.32222,
+    4.96389,
+    -2.32222,
+    4.96389
+],
+  "geometry": {"coordinates":[-2.32222,4.96389],"type":"Point"}
+}

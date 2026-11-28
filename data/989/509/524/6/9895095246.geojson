@@ -1,0 +1,76 @@
+{
+  "id": 9895095246,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.74083,7.21673,-0.74083,7.21673",
+    "geom:latitude":7.21673,
+    "geom:longitude":-0.74083,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12105084 (Sekyere Afram Plains North): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12105084"
+        },
+        {
+            "citation":"GeoNames division 12105084 (Sekyere Afram Plains North): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12105084"
+        },
+        {
+            "citation":"GeoNames division 12105084 (Sekyere Afram Plains North): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12105084"
+        },
+        {
+            "citation":"GeoNames division 12105084 (Sekyere Afram Plains North): a level 2 division under GeoNames division 2304116 (Ashanti Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12105084"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sekyere Afram Plains North"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671331,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12105084
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"44ce454a81a3dd46fc7d311068df57ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095246,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":9895095246,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Sekyere Afram Plains North",
+    "wof:parent_id":85671331,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.74083,
+    7.21673,
+    -0.74083,
+    7.21673
+],
+  "geometry": {"coordinates":[-0.74083,7.21673],"type":"Point"}
+}

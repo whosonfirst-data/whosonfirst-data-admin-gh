@@ -1,0 +1,79 @@
+{
+  "id": 9895095266,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.198,5.581,-0.198,5.581",
+    "geom:latitude":5.581,
+    "geom:longitude":-0.198,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 13609054 (Ayawaso East Municipal): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13609054"
+        },
+        {
+            "citation":"GeoNames division 13609054 (Ayawaso East Municipal): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13609054"
+        },
+        {
+            "citation":"GeoNames division 13609054 (Ayawaso East Municipal): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13609054"
+        },
+        {
+            "citation":"GeoNames division 13609054 (Ayawaso East Municipal): a level 2 division under GeoNames division 2300569 (Greater Accra Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/13609054"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ayawaso East"
+    ],
+    "name:eng_x_variant":[
+        "Ayawaso East Municipal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671353,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13609054
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"6ff49420dc4455c7d911360efc5e9d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095266,
+            "region_id":85671353
+        }
+    ],
+    "wof:id":9895095266,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Ayawaso East",
+    "wof:parent_id":85671353,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.198,
+    5.581,
+    -0.198,
+    5.581
+],
+  "geometry": {"coordinates":[-0.198,5.581],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 9895095275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.9,6.133,0.9,6.133",
+    "geom:latitude":6.133,
+    "geom:longitude":0.9,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 13609068 (Central Tongu District): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13609068"
+        },
+        {
+            "citation":"GeoNames division 13609068 (Central Tongu District): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13609068"
+        },
+        {
+            "citation":"GeoNames division 13609068 (Central Tongu District): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13609068"
+        },
+        {
+            "citation":"GeoNames division 13609068 (Central Tongu District): a level 2 division under GeoNames division 2294234 (Volta Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/13609068"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Central Tongu"
+    ],
+    "name:eng_x_variant":[
+        "Central Tongu District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671357,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13609068
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"f837e6e27e66482be693fad8174afcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095275,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":9895095275,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Central Tongu",
+    "wof:parent_id":85671357,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.9,
+    6.133,
+    0.9,
+    6.133
+],
+  "geometry": {"coordinates":[0.9,6.133],"type":"Point"}
+}

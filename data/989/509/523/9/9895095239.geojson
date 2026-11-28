@@ -1,0 +1,77 @@
+{
+  "id": 9895095239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.21404,6.56463,0.21404,6.56463",
+    "geom:latitude":6.56463,
+    "geom:longitude":0.21404,
+    "gn:population":57337,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7649041 (South Dayi): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7649041"
+        },
+        {
+            "citation":"GeoNames division 7649041 (South Dayi): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7649041"
+        },
+        {
+            "citation":"GeoNames division 7649041 (South Dayi): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7649041"
+        },
+        {
+            "citation":"GeoNames division 7649041 (South Dayi): a level 2 division under GeoNames division 2294234 (Volta Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7649041"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "South Dayi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671357,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7649041
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"0690d97de5f52459b76145270ceb322a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095239,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":9895095239,
+    "wof:lastmodified":1795896582,
+    "wof:name":"South Dayi",
+    "wof:parent_id":85671357,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.21404,
+    6.56463,
+    0.21404,
+    6.56463
+],
+  "geometry": {"coordinates":[0.21404,6.56463],"type":"Point"}
+}

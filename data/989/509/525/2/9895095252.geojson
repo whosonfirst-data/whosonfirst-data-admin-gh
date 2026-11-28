@@ -1,0 +1,76 @@
+{
+  "id": 9895095252,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.84444,6.05424,-0.84444,6.05424",
+    "geom:latitude":6.05424,
+    "geom:longitude":-0.84444,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12105108 (Denkyembour): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12105108"
+        },
+        {
+            "citation":"GeoNames division 12105108 (Denkyembour): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12105108"
+        },
+        {
+            "citation":"GeoNames division 12105108 (Denkyembour): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12105108"
+        },
+        {
+            "citation":"GeoNames division 12105108 (Denkyembour): a level 2 division under GeoNames division 2301360 (Eastern Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12105108"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Denkyembour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671343,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12105108
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"1cfb89bf14c21541288e0e7803da74b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095252,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":9895095252,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Denkyembour",
+    "wof:parent_id":85671343,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.84444,
+    6.05424,
+    -0.84444,
+    6.05424
+],
+  "geometry": {"coordinates":[-0.84444,6.05424],"type":"Point"}
+}
