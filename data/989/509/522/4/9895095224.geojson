@@ -1,0 +1,77 @@
+{
+  "id": 9895095224,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.86848,9.92933,-1.86848,9.92933",
+    "geom:latitude":9.92933,
+    "geom:longitude":-1.86848,
+    "gn:population":87197,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7647181 (Wa East): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7647181"
+        },
+        {
+            "citation":"GeoNames division 7647181 (Wa East): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7647181"
+        },
+        {
+            "citation":"GeoNames division 7647181 (Wa East): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7647181"
+        },
+        {
+            "citation":"GeoNames division 7647181 (Wa East): a level 2 division under GeoNames division 2294286 (Upper West Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7647181"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Wa East"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671327,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647181
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"24707ec306d17c1e8619ed8e2bf94738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095224,
+            "region_id":85671327
+        }
+    ],
+    "wof:id":9895095224,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Wa East",
+    "wof:parent_id":85671327,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.86848,
+    9.92933,
+    -1.86848,
+    9.92933
+],
+  "geometry": {"coordinates":[-1.86848,9.92933],"type":"Point"}
+}

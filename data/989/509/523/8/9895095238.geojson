@@ -1,0 +1,77 @@
+{
+  "id": 9895095238,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.76667,6.55,-0.76667,6.55",
+    "geom:latitude":6.55,
+    "geom:longitude":-0.76667,
+    "gn:population":117051,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7649005 (Kwahu West): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7649005"
+        },
+        {
+            "citation":"GeoNames division 7649005 (Kwahu West): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7649005"
+        },
+        {
+            "citation":"GeoNames division 7649005 (Kwahu West): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7649005"
+        },
+        {
+            "citation":"GeoNames division 7649005 (Kwahu West): a level 2 division under GeoNames division 2301360 (Eastern Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7649005"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kwahu West"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671343,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7649005
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"d0644e8fe8a5b926345d9433107b8b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095238,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":9895095238,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Kwahu West",
+    "wof:parent_id":85671343,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.76667,
+    6.55,
+    -0.76667,
+    6.55
+],
+  "geometry": {"coordinates":[-0.76667,6.55],"type":"Point"}
+}

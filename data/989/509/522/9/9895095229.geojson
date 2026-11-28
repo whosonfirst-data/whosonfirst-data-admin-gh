@@ -1,0 +1,77 @@
+{
+  "id": 9895095229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.15,6.16667,-1.15,6.16667",
+    "geom:latitude":6.16667,
+    "geom:longitude":-1.15,
+    "gn:population":120301,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7648937 (Akyemansa): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7648937"
+        },
+        {
+            "citation":"GeoNames division 7648937 (Akyemansa): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7648937"
+        },
+        {
+            "citation":"GeoNames division 7648937 (Akyemansa): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7648937"
+        },
+        {
+            "citation":"GeoNames division 7648937 (Akyemansa): a level 2 division under GeoNames division 2301360 (Eastern Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7648937"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Akyemansa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671343,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648937
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c92c9477976c6b43981af9d759d521be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095229,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":9895095229,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Akyemansa",
+    "wof:parent_id":85671343,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.15,
+    6.16667,
+    -1.15,
+    6.16667
+],
+  "geometry": {"coordinates":[-1.15,6.16667],"type":"Point"}
+}

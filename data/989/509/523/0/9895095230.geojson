@@ -1,0 +1,77 @@
+{
+  "id": 9895095230,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.75069,6.25421,-1.75069,6.25421",
+    "geom:latitude":6.25421,
+    "geom:longitude":-1.75069,
+    "gn:population":110667,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7648938 (Amansie Central): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7648938"
+        },
+        {
+            "citation":"GeoNames division 7648938 (Amansie Central): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7648938"
+        },
+        {
+            "citation":"GeoNames division 7648938 (Amansie Central): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7648938"
+        },
+        {
+            "citation":"GeoNames division 7648938 (Amansie Central): a level 2 division under GeoNames division 2304116 (Ashanti Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7648938"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Amansie Central"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671331,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648938
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"334212698ef8b62fdf662507cb26d744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095230,
+            "region_id":85671331
+        }
+    ],
+    "wof:id":9895095230,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Amansie Central",
+    "wof:parent_id":85671331,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.75069,
+    6.25421,
+    -1.75069,
+    6.25421
+],
+  "geometry": {"coordinates":[-1.75069,6.25421],"type":"Point"}
+}

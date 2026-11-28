@@ -1,0 +1,79 @@
+{
+  "id": 9895095241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.28184,10.23304,-1.28184,10.23304",
+    "geom:latitude":10.23304,
+    "geom:longitude":-1.28184,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 10303516 (Mamprugo Moaduri District): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/10303516"
+        },
+        {
+            "citation":"GeoNames division 10303516 (Mamprugo Moaduri District): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/10303516"
+        },
+        {
+            "citation":"GeoNames division 10303516 (Mamprugo Moaduri District): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/10303516"
+        },
+        {
+            "citation":"GeoNames division 10303516 (Mamprugo Moaduri District): a level 2 division under GeoNames division 12105071 (North East).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/10303516"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mamprugo Moaduri"
+    ],
+    "name:eng_x_variant":[
+        "Mamprugo Moaduri District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        102191573,
+        9895008346
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10303516
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"3a8a3927d2eb25926ef1fd73e334c2a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095241,
+            "region_id":9895008346
+        }
+    ],
+    "wof:id":9895095241,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Mamprugo Moaduri",
+    "wof:parent_id":9895008346,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.28184,
+    10.23304,
+    -1.28184,
+    10.23304
+],
+  "geometry": {"coordinates":[-1.28184,10.23304],"type":"Point"}
+}

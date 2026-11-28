@@ -1,0 +1,76 @@
+{
+  "id": 9895095249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.36638,6.5599,0.36638,6.5599",
+    "geom:latitude":6.5599,
+    "geom:longitude":0.36638,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12105094 (Ho West): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12105094"
+        },
+        {
+            "citation":"GeoNames division 12105094 (Ho West): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12105094"
+        },
+        {
+            "citation":"GeoNames division 12105094 (Ho West): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12105094"
+        },
+        {
+            "citation":"GeoNames division 12105094 (Ho West): a level 2 division under GeoNames division 2294234 (Volta Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12105094"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ho West"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671357,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12105094
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"9736ccb1fbb55cd8c7a7b48d27187e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095249,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":9895095249,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Ho West",
+    "wof:parent_id":85671357,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.36638,
+    6.5599,
+    0.36638,
+    6.5599
+],
+  "geometry": {"coordinates":[0.36638,6.5599],"type":"Point"}
+}

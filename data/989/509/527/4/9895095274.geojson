@@ -1,0 +1,79 @@
+{
+  "id": 9895095274,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.9,8.2,-0.9,8.2",
+    "geom:latitude":8.2,
+    "geom:longitude":-0.9,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 13609065 (North East Gonja District): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13609065"
+        },
+        {
+            "citation":"GeoNames division 13609065 (North East Gonja District): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13609065"
+        },
+        {
+            "citation":"GeoNames division 13609065 (North East Gonja District): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13609065"
+        },
+        {
+            "citation":"GeoNames division 13609065 (North East Gonja District): a level 2 division under GeoNames division 12105074 (Savannah).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/13609065"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "North East Gonja"
+    ],
+    "name:eng_x_variant":[
+        "North East Gonja District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        102191573,
+        9895008348
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13609065
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"b87d6e6b1cc62611fa0d0976a947642c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095274,
+            "region_id":9895008348
+        }
+    ],
+    "wof:id":9895095274,
+    "wof:lastmodified":1795896582,
+    "wof:name":"North East Gonja",
+    "wof:parent_id":9895008348,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.9,
+    8.2,
+    -0.9,
+    8.2
+],
+  "geometry": {"coordinates":[-0.9,8.2],"type":"Point"}
+}

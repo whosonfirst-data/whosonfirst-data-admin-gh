@@ -1,0 +1,76 @@
+{
+  "id": 9895095250,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.41421,6.90854,0.41421,6.90854",
+    "geom:latitude":6.90854,
+    "geom:longitude":0.41421,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 12105095 (Afadzato South): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12105095"
+        },
+        {
+            "citation":"GeoNames division 12105095 (Afadzato South): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12105095"
+        },
+        {
+            "citation":"GeoNames division 12105095 (Afadzato South): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12105095"
+        },
+        {
+            "citation":"GeoNames division 12105095 (Afadzato South): a level 2 division under GeoNames division 2294234 (Volta Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/12105095"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Afadzato South"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671357,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12105095
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"276f7b6dba3d54c671b1a62ffa178948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095250,
+            "region_id":85671357
+        }
+    ],
+    "wof:id":9895095250,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Afadzato South",
+    "wof:parent_id":85671357,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.41421,
+    6.90854,
+    0.41421,
+    6.90854
+],
+  "geometry": {"coordinates":[0.41421,6.90854],"type":"Point"}
+}

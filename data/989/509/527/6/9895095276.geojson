@@ -1,0 +1,79 @@
+{
+  "id": 9895095276,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.2,6.45,-2.2,6.45",
+    "geom:latitude":6.45,
+    "geom:longitude":-2.2,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 13609069 (Amenfi Central District): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13609069"
+        },
+        {
+            "citation":"GeoNames division 13609069 (Amenfi Central District): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13609069"
+        },
+        {
+            "citation":"GeoNames division 13609069 (Amenfi Central District): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13609069"
+        },
+        {
+            "citation":"GeoNames division 13609069 (Amenfi Central District): a level 2 division under GeoNames division 2294076 (Western Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/13609069"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Amenfi Central"
+    ],
+    "name:eng_x_variant":[
+        "Amenfi Central District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671347,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13609069
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"c3bd468c08707effbc70f47600b39e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095276,
+            "region_id":85671347
+        }
+    ],
+    "wof:id":9895095276,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Amenfi Central",
+    "wof:parent_id":85671347,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.2,
+    6.45,
+    -2.2,
+    6.45
+],
+  "geometry": {"coordinates":[-2.2,6.45],"type":"Point"}
+}

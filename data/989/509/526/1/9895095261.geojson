@@ -1,0 +1,79 @@
+{
+  "id": 9895095261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.554,6.165,-0.554,6.165",
+    "geom:latitude":6.165,
+    "geom:longitude":-0.554,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 13609042 (Abuakwa South Municipal): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13609042"
+        },
+        {
+            "citation":"GeoNames division 13609042 (Abuakwa South Municipal): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13609042"
+        },
+        {
+            "citation":"GeoNames division 13609042 (Abuakwa South Municipal): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13609042"
+        },
+        {
+            "citation":"GeoNames division 13609042 (Abuakwa South Municipal): a level 2 division under GeoNames division 2301360 (Eastern Region).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/13609042"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Abuakwa South"
+    ],
+    "name:eng_x_variant":[
+        "Abuakwa South Municipal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        85671343,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13609042
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"91a278bf7cc7bd2b8453328e81d5f0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095261,
+            "region_id":85671343
+        }
+    ],
+    "wof:id":9895095261,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Abuakwa South",
+    "wof:parent_id":85671343,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.554,
+    6.165,
+    -0.554,
+    6.165
+],
+  "geometry": {"coordinates":[-0.554,6.165],"type":"Point"}
+}

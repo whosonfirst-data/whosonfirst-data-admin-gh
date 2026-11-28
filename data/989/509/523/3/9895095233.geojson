@@ -1,0 +1,76 @@
+{
+  "id": 9895095233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.32349,8.9242,-1.32349,8.9242",
+    "geom:latitude":8.9242,
+    "geom:longitude":-1.32349,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 7648970 (Central Gonja): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7648970"
+        },
+        {
+            "citation":"GeoNames division 7648970 (Central Gonja): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7648970"
+        },
+        {
+            "citation":"GeoNames division 7648970 (Central Gonja): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7648970"
+        },
+        {
+            "citation":"GeoNames division 7648970 (Central Gonja): a level 2 division under GeoNames division 12105074 (Savannah).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/7648970"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Central Gonja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        102191573,
+        9895008348
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648970
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"8236b08fc151684212753327eb51122e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095233,
+            "region_id":9895008348
+        }
+    ],
+    "wof:id":9895095233,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Central Gonja",
+    "wof:parent_id":9895008348,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.32349,
+    8.9242,
+    -1.32349,
+    8.9242
+],
+  "geometry": {"coordinates":[-1.32349,8.9242],"type":"Point"}
+}

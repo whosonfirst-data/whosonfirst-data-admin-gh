@@ -1,0 +1,79 @@
+{
+  "id": 9895095259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.65,8.22,-0.65,8.22",
+    "geom:latitude":8.22,
+    "geom:longitude":-0.65,
+    "iso:country":"GH",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames division 13609038 (Pru East District): its name",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13609038"
+        },
+        {
+            "citation":"GeoNames division 13609038 (Pru East District): its point. GeoNames publishes no boundary.",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13609038"
+        },
+        {
+            "citation":"GeoNames division 13609038 (Pru East District): its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13609038"
+        },
+        {
+            "citation":"GeoNames division 13609038 (Pru East District): a level 2 division under GeoNames division 12105073 (Bono East).",
+            "property":"wof:hierarchy",
+            "url":"https://www.geonames.org/13609038"
+        }
+    ],
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Pru East"
+    ],
+    "name:eng_x_variant":[
+        "Pru East District"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632189,
+        102191573,
+        9895008344
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13609038
+    },
+    "wof:country":"GH",
+    "wof:geomhash":"11ca0546d8b457fc9bbf5d6f991c429c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632189,
+            "county_id":9895095259,
+            "region_id":9895008344
+        }
+    ],
+    "wof:id":9895095259,
+    "wof:lastmodified":1795896582,
+    "wof:name":"Pru East",
+    "wof:parent_id":9895008344,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-gh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.65,
+    8.22,
+    -0.65,
+    8.22
+],
+  "geometry": {"coordinates":[-0.65,8.22],"type":"Point"}
+}
